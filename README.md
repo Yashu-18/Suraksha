@@ -55,9 +55,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/example1" alt="Splash" width="220" height="450"/><br/>Splash Screen</td>
-    <td><img src="https://github.com/user-attachments/assets/example2" alt="Add Contact" width="220" height="450"/><br/>Add Contact</td>
-    <td><img src="https://github.com/user-attachments/assets/example3" alt="Send Location" width="220" height="450"/><br/>Emergency Notification</td>
+    <td><img src="https://github.com/user-attachments/assets/487b839c-0513-4b52-9f34-90cd345ee063" alt="Send Location" width="220" height="450"/><br/>Emergency Notification</td>
   </tr>
 </table>
 
@@ -65,7 +63,7 @@
 
 ## 🎥 Demo Video
 
-[Click here to watch the demo](https://drive.google.com/file/d/YOUR_DEMO_LINK/view?usp=drivesdk)
+[Click here to watch the demo](https://drive.google.com/file/d/1NJZVYEROj4nn08yp1z-dIy0EBOtw2rft/view?usp=drivesdk)
 
 ---
 
