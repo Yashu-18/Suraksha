@@ -1,0 +1,2 @@
+*.kt linguist-language=Kotlin
+*.html linguist-detectable=false
