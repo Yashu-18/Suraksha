@@ -51,8 +51,6 @@
 
 ## 📸 Screenshots
 
-> *(Replace the links below with your actual screenshots)*
-
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/487b839c-0513-4b52-9f34-90cd345ee063" alt="Send Location" width="220" height="450"/><br/>Emergency Notification</td>
